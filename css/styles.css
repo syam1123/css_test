@@ -4,6 +4,7 @@ img{
 
 p{
   text-indent: 10%;
+  padding: 0px 20px;
 }
 h1{
   text-align: center;
@@ -31,8 +32,6 @@ body{
 .small{
   position: relative;
   min-height: 1px;
-  padding-right: 15px;
-  padding-left: 15px;
-  width: 30%;
+  width: 33.29%;
   float: left;
 }
