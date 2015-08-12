@@ -1,5 +1,5 @@
 .box{
-  border: 1px solid green;
+  border: 3px solid navy;
 padding: 20px;
 margin: 20px 30px;
 width: 50%;
@@ -22,4 +22,10 @@ img{
 }
 p{
   text-indent: 10%;
+}
+body{
+  background-image: url("../b.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
